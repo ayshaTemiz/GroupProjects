@@ -20,13 +20,7 @@ public class Task03 {
 		System.out.println("The sum of even numbers is " + sumEven);
 		System.out.println("The sum of odd numbers is " + sumOdd);
 		
-//		int sum1 = 0;
-//		for (int i = 0; i < numbers.length; i++) {
-//			for (int j = 0; j < numbers[i].length; j++)
-//				if (numbers[i][j] % 2 == 1) {
-//					sum1 = sum1 + numbers[i][j];
-//				}
-//		}
+		
 		
 	}
 
