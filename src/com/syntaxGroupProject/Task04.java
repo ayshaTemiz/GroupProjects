@@ -24,6 +24,24 @@ public class Task04 {
 			sum += nu;
 		}
 		System.out.println("The sum of double values is " + sum);
+		
+		
+		
+		//2nd way
+//		
+//		double [] numbers=new double[5];
+//		Scanner scanner=new Scanner(System.in);
+//		for(int i=0; i<numbers.length;i++) {
+//			System.out.println("Please enter the number");
+//			numbers[i]=scanner.nextDouble();
+//		}
+//		double sum2=0;
+//		for(double number:numbers) {
+//			sum2+=number;
+//		}
+//		
+//		System.out.println(sum2);
+//		
 	}
 
 }
